@@ -1,2 +1,3 @@
 # git--demo
-this is my first GitHub practice repository
+This is my first GitHub practice repository
+Author - Anushka 
